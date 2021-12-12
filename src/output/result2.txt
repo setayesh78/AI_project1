@@ -1,0 +1,23 @@
+IDS:
+test1:
+['U', 'R', 'R', 'D', 'R', 'D', 'L', 'U', 'L', 'D', 'D', 'L', 'D', 'R']
+cost = 14
+depth = 14
+
+test2:
+['U', 'L', 'L', 'D', 'U', 'R', 'R', 'D', 'D', 'L', 'L', 'L']
+cost = 12
+depth = 12
+
+test3:
+['U', 'L', 'D', 'D', 'U', 'U', 'R', 'R', 'R', 'D', 'D', 'D', 'L', 'L', 'L', 'L', 'D', 'L', 'U']
+cost = 19
+depth = 19
+
+test4:
+Can't possible!
+
+test5:
+['U', 'L', 'D', 'D', 'U', 'U', 'R', 'R', 'D', 'D', 'D', 'L', 'L', 'L', 'D', 'L', 'U']
+cost = 17
+depth = 17
