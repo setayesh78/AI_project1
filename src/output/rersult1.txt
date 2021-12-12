@@ -1,0 +1,23 @@
+Astar :
+test1:
+['R', 'D', 'R', 'U', 'R', 'D', 'D', 'R', 'D', 'L']
+cost = 14
+depth = 10
+
+test2:
+['U', 'L', 'L', 'D', 'U', 'R', 'R', 'D', 'D', 'L', 'L', 'L']
+cost = 13
+depth = 12
+
+test3:
+['L', 'L', 'U', 'L', 'D']
+cost = 7
+depth = 5
+
+test4:
+Can't possible!
+
+test5:
+['U', 'L', 'D', 'D', 'R', 'D', 'L', 'L', 'D', 'L', 'U']
+cost = 14
+depth = 11
